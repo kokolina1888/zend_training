@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<library>
+	<book isbn="222523613">
+		<title>Title 1</title>		
+		<author>Author 1</author>
+		<publisher>Publisher 1</publisher>
+	</book>
+	<book isbn="222541613">
+		<title>Title 2</title>		
+		<author>Author 2</author>
+		<publisher>Publisher 2</publisher>
+	</book>
+	<book isbn="222523678">
+		<title>Title 3</title>		
+		<author>Author 3</author>
+		<publisher>Publisher 3</publisher>
+	</book>
+	<book isbn="227441423">
+		<title>Title 4</title>		
+		<author>Author 4</author>
+		<publisher>Publisher 4</publisher>
+	</book>
+</library>
