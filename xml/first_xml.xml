@@ -20,4 +20,4 @@
 		<author>Author 4</author>
 		<publisher>Publisher 4</publisher>
 	</book>
-</library>
+<book isbn="111111111"><title>Title11</title><author>Author11</author><publisher>Publisher11</publisher></book><book isbn="111111111"><title>Title11</title><author>Author11</author><publisher>Publisher11</publisher></book><book isbn="111111111"><title>Title11</title><author>Author11</author><publisher>Publisher11</publisher></book></library>

@@ -29,4 +29,4 @@ $book->appendChild($publisher);
 $dom->documentElement->appendChild($book);
 echo PHP_EOL;
 
-echo $dom->saveXML();
+echo $dom->save('first_xml.xml');
